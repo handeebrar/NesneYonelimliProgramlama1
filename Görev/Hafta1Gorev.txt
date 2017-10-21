@@ -1,0 +1,6 @@
+Isci adýnda bir sýnýf tanýmlayalým. Bu sýnýf ad,soyad,maas,sehir,gorev gibi durumlara sahip olsun.
+Bu sýnýfýn yapýcýsý(constructor) aldýðý parametreleri bu deðiþkenlere atasýn. Main metodu içerisinde
+bu sýnýfa ait bir nesne oluþturalým ve parametre olarak Isci sýnýfýnýn yapýcýsýna bu 5 deðeri de gönderelim.
+Ýsterseniz, bu gönderilecek deðerleri kullanýcýdan alabilirsiniz. Daha sonra bu deðerleri ekrana yazdýrmanýzý istiyorum.
+
+Takýldýðýnýz her konuda bana sormaktan çekinmeyin. Kolay gelsin! :)
